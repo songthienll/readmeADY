@@ -16,5 +16,4 @@ This project focuses on implementing traffic sign detection using YOLOV8.YOLOV8 
     1. Dataset: collected from many sources(Google, roboflow, kaggle,...)
     2. YOLOv8 model: Utilizing the YOLOv8 model for efficient and accurate real-time object detection.
     3. Training: Using NVIDIA Geforce RTX 3060 graphics card.
-    4. Evaluation:
 
